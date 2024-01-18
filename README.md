@@ -1,4 +1,4 @@
-# Open source Bluetooth Portable Speaker
+# Bluetooth Portable Speaker
 In my spare time, I wanted to put my skills, acquired at Brest National School of Engineering and outside the school, by completing a full open source bluetooth portable speaker project.
 
 As part of this project, I proceeded in 6 stages:
